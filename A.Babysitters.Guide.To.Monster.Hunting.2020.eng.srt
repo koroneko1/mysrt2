@@ -1,12 +1,10 @@
 1
 00:00:02,000 --> 00:00:07,000
-Downloaded from
-YTS.MX
+You're watching from StreanFlex app.
 
 2
 00:00:08,000 --> 00:00:13,000
-Official YIFY movies site:
-YTS.MX
+Enjoy watching.
 
 3
 00:00:34,416 --> 00:00:36,416
